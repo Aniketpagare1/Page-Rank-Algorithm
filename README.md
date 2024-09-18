@@ -79,4 +79,4 @@ Time Complexity: O(n^2)
 - The PageRank algorithm was originally developed by Larry Page and Sergey Brin.
 - This implementation is adapted for educational purposes.
 
-This version of the `README.md` file features clear headings, bullet points, and examples to make it user-friendly and visually appealing.
+
